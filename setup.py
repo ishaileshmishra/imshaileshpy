@@ -21,7 +21,7 @@ requirements = [
 setup(
     name="imshaileshpy",
     keywords="imshaileshpy-python-package",
-    version="0.0.1",
+    version="0.0.2",
     author="imshaileshpy",
     author_email="mshaileshr@gmail.com",
     description="imshaileshpy is an example package.",

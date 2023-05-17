@@ -3,7 +3,7 @@ build-backend = "setuptools.build_meta"
 
 
 name = "imshaileshpy"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
     { name = "Shailesh Misra", email = "shaileshmishra@google.com" },
 ]
